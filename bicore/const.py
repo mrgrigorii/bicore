@@ -1,0 +1,2 @@
+
+NUCL_STRING = "ACGT"
